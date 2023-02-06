@@ -52,7 +52,7 @@ class ApiConstant
 
   static  String placeDetailsInGoogleMaps = 'https://maps.googleapis.com/maps/api/place/details/json';
 
-  static const String apiKeyGoogleMaps = 'AIzaSyAFIeOTNxt7zwzNn6zKFSPol7c2EWK3mbw';
+  static const String apiKeyGoogleMaps = 'jjdfasfdfjdjndjdfasjdfjdfjfsdkjl';
 
 
 
